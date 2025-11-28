@@ -60,3 +60,4 @@ def draw_moves(game, board, piece):
     game.draw_valid_moves(valid_moves.keys())
     pygame.display.update()
     #pygame.time.delay(100)
+
